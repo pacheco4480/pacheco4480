@@ -27,35 +27,51 @@ I started my career in **Law**, but my passion for technology led me to explore 
 
 ## 🚀 Highlighted Projects
 
-### 💪 **PulseFit.Management.Web**  
-*Complete Gym Management System*  
-🔗 [View Project](https://github.com/pacheco4480/PulseFit.Management.Web)  
-📌 **Tech Stack:** C#, ASP.NET MVC, SQL Server, JWT Authentication  
-📊 **Features:** Subscription management, payment tracking, user authentication, dynamic dashboards.  
+### 🌍 **WorldInfoApp**  
+*Explore real-time country data with offline access.*  
+🔗 [View Project](https://github.com/pacheco4480/WorldInfoApp)  
+📌 **Tech Stack:** C#, WPF, SQLite, REST Countries API  
+📊 **Features:** Real-time country data, offline storage, filtering, and detailed country insights.  
 
 ---
 
 ### 🍽️ **Descoberta Gastronômica**  
-*Restaurant Discovery App*  
+*Discover restaurants across Portugal with dynamic filters.*  
 🔗 [View Project](https://github.com/pacheco4480/Descoberta_Gastronomica)  
 📌 **Tech Stack:** Python, Tkinter, Yelp API  
-📊 **Features:** Search for restaurants by location, filter by cuisine, and open restaurant pages directly.
+📊 **Features:** Location-based search, cuisine filtering, and direct access to restaurant pages.  
 
 ---
 
-### 🖩 **PyCalc2**  
-*Advanced Desktop Calculator*  
-🔗 [View Project](https://github.com/pacheco4480/PyCalc2)  
-📌 **Tech Stack:** Python, PyQt5  
-📊 **Features:** Standard and scientific operations, modern UI, keyboard shortcuts.
+### 🏫 **EscolaManager**  
+*Efficient school management system for students, classes, and grades.*  
+🔗 [View Project](https://github.com/pacheco4480/EscolaManager)  
+📌 **Tech Stack:** C#, WinForms, OOP  
+📊 **Features:** Manage students, classes, subjects, grades, and attendance.  
 
 ---
 
-### 🛒 **ECommerceSnacks**  
-*Cross-platform E-commerce App*  
-🔗 [View Project](https://github.com/pacheco4480/ECommerceSnacks)  
-📌 **Tech Stack:** C#, .NET MAUI, REST API  
-📊 **Features:** Product catalog, cart management, checkout process.
+### 🏋️ **PulseFit.Management.Web**  
+*Complete gym management system with secure payment and subscription tracking.*  
+🔗 [View Project](https://github.com/pacheco4480/PulseFit.Management.Web)  
+📌 **Tech Stack:** ASP.NET MVC, SQL Server, JWT Authentication  
+📊 **Features:** Subscription management, payment tracking, and BMI calculator.  
+
+---
+
+### 🌦️ **WeatherHeroesApp**  
+*Weather forecast app with superhero themes and animations.*  
+🔗 [View Project](https://github.com/pacheco4480/WeatherHeroesApp)  
+📌 **Tech Stack:** .NET MAUI, Firebase, OpenWeatherMap API  
+📊 **Features:** Dynamic themes, geolocation, city management, and detailed forecasts.  
+
+---
+
+### 🎓 **School Management System**  
+*Comprehensive web platform for school administration.*  
+🔗 [View Project](https://github.com/pacheco4480/SchoolManagementSystem)  
+📌 **Tech Stack:** ASP.NET Core MVC, SQL Server, Bootstrap  
+📊 **Features:** Role management, course and grade management, attendance tracking.  
 
 ---
 
@@ -97,14 +113,14 @@ I started my career in **Law**, but my passion for technology led me to explore 
 
 - **Copywriting** – Rock Content *(2022)*  
 - **Digital Marketing** – CESAE *(2020)*  
-- **Digital Marketing Fundamentals** – Google *(2017)*  
+- **Digital Marketing Fundamentals** – Google *(2017)*
+- **UX/UI Design** – IEFP *(2022)*  
 
 ---
 
 ## 📫 Contact Me
 
-- 🌐 [Portfolio Website](https://seuwebsite.com) *(Em desenvolvimento)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)    
+- 💼 [LinkedIn](https://www.linkedin.com/in/davidpachecoo/)    
 
 ---
 
