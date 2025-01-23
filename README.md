@@ -105,7 +105,7 @@ I started my career in **Law**, but my passion for technology led me to explore 
 
 - 🎓 **CINEL** – Specialist in Information Systems Technologies and Programming *(2024)*  
 - 🎓 **Universidade da Maia (UMAIA)** – Bachelor’s in Law *(2010 - 2014)*  
-- 🎓 **IEFP** – Python *(2023)* | UX/UI Design *(2021)* | Marketing *(2020)*  
+- 🎓 **IEFP** – Python *(2023)*  
 
 ---
 
