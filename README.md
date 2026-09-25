@@ -28,10 +28,10 @@ I started my career in **Law**, but my passion for technology led me to explore 
 ## 🚀 Highlighted Projects
 
 ### ⚽ Bet Studio
-*Local-first platform for creating, evaluating and rendering professional football betting bulletins.*
-🔗 [View Project](https://github.com/pacheco4480/bet-studio)
-📌 **Tech Stack:** TypeScript, React, Fastify, SQLite, Drizzle, Vitest, Playwright
-📊 **Highlights:** Bulletin builder, market settlement engine, football API integration, deterministic PNG rendering, analytics, fixture/history management, CI quality gates.
+*Local-first platform for creating, evaluating and rendering professional football betting bulletins.*<br>
+🔗 [View Project](https://github.com/pacheco4480/bet-studio)<br>
+📌 **Tech Stack:** TypeScript, React, Fastify, SQLite, Drizzle, Vitest, Playwright<br>
+📊 **Features:** Bulletin builder, market settlement engine, football API integration, deterministic PNG rendering, analytics, fixture/history management, CI quality gates.
 
 ---
 
